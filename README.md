@@ -52,4 +52,4 @@ El trabajo está desarrollado en un único notebook: [`proyecto_data_experience.
 
 Elen Zawady,
 Daniela Salcedo,
-Maicol Gomez 
+Maicol Gomez.
